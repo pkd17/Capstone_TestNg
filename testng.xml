@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Hotel Booking Suite" verbose="1" parallel="false">
+
+    <test name="Hotel Booking Flow Test">
+        <classes>
+            <class name="com.wipro.Capstone.Booking"/>
+        </classes>
+    </test>
+
+</suite>
